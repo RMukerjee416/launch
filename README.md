@@ -4,7 +4,7 @@ An app that allows for quotes to be entered by visitors. The quotes get saved to
 
 ## Visit us! Click [here](https://splurty-rajkumar-mukerjee.herokuapp.com/).
 
-![Splurty Screenshot](./images/splurty_screenshot.png)
+![Splurty Screenshot](./app/assets/images/splurty_screenshot.png)
 
 ## Tools & Resources
 
