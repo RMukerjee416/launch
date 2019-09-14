@@ -1,24 +1,17 @@
-# README
+# Splurty
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An app that allows for quotes to be entered by visitors. The quotes get saved to a database, and then appear at random on the homepage for others to read.
 
-Things you may want to cover:
+## Visit us! Click [here](https://splurty-rajkumar-mukerjee.herokuapp.com/).
 
-* Ruby version
+![Splurty Screenshot](./images/splurty_screenshot.png)
 
-* System dependencies
+## Tools & Resources
 
-* Configuration
+* [Ruby on Rails](https://rubyonrails.org/) 
+* [PostgreSQL](https://www.postgresql.org/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Heroku](https://www.heroku.com/)
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Enjoy your day!
